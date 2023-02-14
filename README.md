@@ -10,4 +10,4 @@ How to start the game
     1. Start session.py
        This program is responsible for the server
     2. Start main.py
-       This program is responsible for the server part of application
+       This program is responsible for the client part of application
